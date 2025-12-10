@@ -87,7 +87,9 @@ Zerocoder-VD03-bootstrap/
 
 ## Автор
 
-[Ваше имя]
+**Георгий Белянин (Georgy Belyanin)**
+
+Email: georgy.belyanin@gmail.com
 
 ## Дата создания
 
