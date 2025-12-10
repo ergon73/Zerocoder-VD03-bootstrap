@@ -55,9 +55,7 @@
 Zerocoder-VD03-bootstrap/
 ├── index.html          # Главная страница
 ├── images/             # Папка для изображений
-├── README.md           # Описание проекта
-├── genai-readme.md     # Инструкция для AI
-└── human-readme.md     # Руководство для выполнения задания
+└── README.md           # Описание проекта
 ```
 
 ## Адаптивность
